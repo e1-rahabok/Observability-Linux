@@ -33,6 +33,10 @@ Covers CPU, memory, disk, network, system, cgroups, and GPU.
 | [cgroups/](cgroups/README.md) | cgroup v2 controllers and container limits |
 | [gpu/](gpu/README.md) | NVIDIA GPU metrics (NVML, not kernel source) |
 
+## References
+
+Pinned kernel source links (6.18 and 7.x), man pages, glossary, and reading list: [references/](references/README.md).
+
 ## Page format
 
 Each metric entry gives:
